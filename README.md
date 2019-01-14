@@ -1,6 +1,6 @@
 # FlaskApp
 
-Simple application with authentication and CRUD functionality using the Python Flask micro-framework
+Health monitoring application with authentication and CRUD functionality using the Python Flask micro-framework also with data visualisation.
 
 ## Installation
 
